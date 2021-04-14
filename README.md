@@ -7,9 +7,13 @@
 
   ![](https://github.com/nancy-gl/Accounts-AR/blob/main/images/CSV%20Data.png)
   
+## Prepared Data:
+  
   * After applying various transformation steps to create a desired structure of the data for visualization, the prepared data looks as shown:
 
   ![](https://github.com/nancy-gl/Accounts-AR/blob/main/images/PQ%20Prepared%20Data.png)
+  
+## Visualizing Data:
   
   * We can now create a table visual and a waterfall chart to have in-depth knowledge of the Invoice Age. 
 
